@@ -1,44 +1,34 @@
-Hola, soy Juan David 👋
+# 👋 Hola, soy Juan David
+
 Desarrollador de software con interés en el backend y en el manejo de bases de datos, siempre con ganas de aprender y mejorar mis habilidades en el desarrollo de aplicaciones.
 
-🎓 Formación
-Tecnología en Análisis y Desarrollo de Software (ADSO).
+## 🎓 Formación
+- Tecnología en Análisis y Desarrollo de Software (ADSO)
 
-💻 Tecnologías
-Bases de datos
+## 💻 Tecnologías
 
-MySQL
+### Bases de datos
+- MySQL
+- MongoDB
 
-MongoDB
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+- Tailwind
 
-Frontend
+### Backend
+- Python (Django)
+- PHP (Laravel)
+- Java (Spring Boot)
 
-HTML
+### Herramientas
+- Postman
+- GitHub
+- Figma
 
-CSS
-
-Bootstrap
-
-Tailwind
-
-Backend
-
-Python (Django)
-
-PHP (Laravel)
-
-Java (Spring Boot)
-
-Herramientas
-
-Postman
-
-GitHub
-
-Figma
-
-🔗 Conexión
+## 🔗 Conexión
 Me interesa seguir aprendiendo y colaborar en proyectos donde pueda aportar mis conocimientos y crecer como desarrollador.
 
-📫 Correo
-juandavidgallegoquintero504@gmail.com
+## 📫 Correo
+- juandavidgallegoquintero504@gmail.com
